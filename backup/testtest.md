@@ -1,0 +1,10 @@
+A test
+:person_fencing:呵呵
+>[!NOTE]
+>a note
+![1701765290031](https://github.com/0xHua/0xHua.github.io/assets/173595196/f6a81f62-544b-4ca5-a2f0-d123afeab039)
+
+https://github.com/0xHua/0xHua.github.io/assets/173595196/5ff8c2ea-314b-4eef-a976-befbc6e851e2
+
+**video&picture**
+_iiiiiiiiz_
